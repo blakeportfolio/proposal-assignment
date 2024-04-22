@@ -1,1 +1,4 @@
 # proposal-assignment
+For this assignment, I was tasked with creating a research proposal for the UCF Summer Undergraduate Research Fellowship (SURF).
+The topic I chose was: Evolving Standards in Cybersecurity Vulnerability Assessment Over Time.
+The rest of the assignment was to create a project objective/creative statement to essentially lay out my research questions. After that, the next step for me was to explain the potential importance of my research project and critical frameworks that are used in the actual research of the project. My research aimed to investigate the evolution of CVE (Common Vulnerabilities and Exposures) vulnerability assessment scoring systems to understand how these changes have impacted cybersecurity practices. The study seeks to highlight the advancements made in vulnerability assessment and propose recommendations for future improvements.
